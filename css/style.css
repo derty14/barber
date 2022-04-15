@@ -82,10 +82,10 @@ hr {
 	background-color: rgba(248, 248, 248, 0);
 	border-color: rgba(231, 231, 231, 0);
 }
-#menu a.navbar-brand {
-	font-size: 22px;
-	color: #ddd;
-	font-weight: 700;
+#menu img{
+	width:60px;
+	margin-left:20px;
+	height:8vh;
 }
 #menu a.navbar-brand i.fa {
 	color: #88bb45;
@@ -143,7 +143,7 @@ header p {
 	padding-bottom: 200px;
 }
 .intro-text H1 {
-	font-size: 60px;
+	font-size: 11vmin;
 	color: #eeeeee;
 	font-weight: 600;
 }
